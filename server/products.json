@@ -1,0 +1,57 @@
+[
+    
+            {
+   
+    
+                "milanesa":[
+                    
+                    {
+                        "name":"Milanesa Pollo",
+                        "price": 8000
+                    },
+                    {
+                        "name":"Milanesa Carne",
+                        "price": 0
+                    },
+                    {
+                        "name":"Milanesa Napo Carne",
+                        "price": 0
+                    },
+                    {
+                        "name":"Milanesa Napo Pollo",
+                        "price": 0
+                    }
+
+                ],
+            
+                "Guarnicion":[
+                    {
+                    "name": "Ensalada Mixta",
+                    "price":0
+                    },
+                    {
+                    "name": "Papas Fritas",
+                    "price":0
+                    },
+                    {
+                    "name": "Pure",
+                    "price":0
+                    }
+                ]
+            
+            },
+            {
+
+                "Pizza":[
+                    {"name":"Fugazzeta"},
+                    {"name":"Napolitana"},
+                    {"name":"Calabreza"},
+                    {"name":"Jamon y Morron"},
+                    {"name":"Muzzarella"},
+                    {"name":"Rucula"}
+                ]
+            }
+
+
+    
+]

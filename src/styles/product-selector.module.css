@@ -1,0 +1,44 @@
+.mainSection{
+
+display: flex;
+justify-content: center;
+align-content: center;
+align-items: center;
+
+    height: 75vh;
+    width: 100vw;
+    background-color: white;
+}
+
+.mainContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center   ;
+    background-color: grey;
+    height: 60%;
+    width: 90%;
+
+}
+
+.gridContainer{
+    height: 100%;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    
+}
+
+.item{
+    height: 95%;
+    width: 90%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
